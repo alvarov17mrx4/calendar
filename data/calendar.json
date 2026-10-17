@@ -332,8 +332,9 @@
    "start": "2026-10-26",
    "end": "2026-10-30",
    "status": "confirmed",
-   "note": "",
-   "source": "https://www.padelfip.com/events/fip-world-cup-2026-qualifiers-asia-africa/"
+   "note": "National teams from Asia and Africa; one men's and one women's place for Doha. Expected MRX4 players by nationality; official rosters not published yet.",
+   "source": "https://www.padelfip.com/events/fip-world-cup-2026-qualifiers-asia-africa/",
+   "always": true
   },
   {
    "id": "fip26-silver-dubai2",
@@ -384,8 +385,9 @@
    "start": "2026-11-02",
    "end": "2026-11-07",
    "status": "confirmed",
-   "note": "",
-   "source": "https://www.padelfip.com/calendar/"
+   "note": "Already qualified from Asia: Qatar (host, men and women) and UAE (men). The Kuwait qualifiers add one men's and one women's team. MRX4 players only if their country qualifies.",
+   "source": "https://www.padelfip.com/events/fip-world-cup-2026-2/",
+   "always": true
   },
   {
    "id": "fip26-silver-maldives",
@@ -677,9 +679,36 @@
  "overrides": {
   "fip26-bronze-cebu": {
    "christian": "in"
+  },
+  "fip26-wc-qual-asia": {
+   "kae": "in",
+   "saki": "in",
+   "tim": "in",
+   "christian": "in",
+   "jason": "in"
   }
  },
  "news": [
+  {
+   "date": "2026-10-17",
+   "title": "FIP World Cup Qualifiers Asia & Africa in Kuwait, 26–30 October: one men's and one women's place for Doha",
+   "url": "https://www.padelfip.com/2026/09/fip-world-cup-qualifiers-asia-africa-final-spots-for-doha-at-stake-in-kuwait-from-26-to-30-october/",
+   "source": "FIP",
+   "circuits": [
+    "fip"
+   ],
+   "events": [
+    "fip26-wc-qual-asia",
+    "fip26-world-cup"
+   ],
+   "players": [
+    "kae",
+    "saki",
+    "tim",
+    "christian",
+    "jason"
+   ]
+  },
   {
    "date": "2026-10-17",
    "title": "Draw check: Christian Didier in FIP Bronze Cebu; Iñigo Jofre and Jose Diestro in the Milano P1 main draw",
